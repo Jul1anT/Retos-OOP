@@ -1,0 +1,58 @@
+{
+    "Beverages": [
+        {
+            "name": "Cappuccino",
+            "price": 3.99,
+            "size": "Small"
+        },
+        {
+            "name": "Latte",
+            "price": 4.5,
+            "size": "Medium"
+        },
+        {
+            "name": "Iced Tea",
+            "price": 2.99,
+            "size": "Large"
+        },
+        {
+            "name": "Smoothie",
+            "price": 5.49,
+            "size": "Large"
+        }
+    ],
+    "Appetizers": [
+        {
+            "name": "Nachos",
+            "price": 7.99,
+            "size": "1 plate"
+        },
+        {
+            "name": "Spring Rolls",
+            "price": 5.99,
+            "size": "6 pieces"
+        },
+        {
+            "name": "Garlic Bread",
+            "price": 4.99,
+            "size": "4 slices"
+        }
+    ],
+    "Main Courses": [
+        {
+            "name": "Grilled Chicken",
+            "price": 12.99,
+            "size": "Juicy chicken with herbs"
+        },
+        {
+            "name": "Steak",
+            "price": 15.99,
+            "size": "Tender beef steak with sides"
+        },
+        {
+            "name": "Pasta Primavera",
+            "price": 10.99,
+            "size": "Pasta with fresh vegetables"
+        }
+    ]
+}
