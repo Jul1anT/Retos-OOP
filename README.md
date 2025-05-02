@@ -2,7 +2,6 @@
 
 ## Información del estudiante
 **Nombre:** Julian Ricardo Torres Zaque<br>
-**Grupo:** ###<br>
 **Carrera:** Ingeniería Mecatrónica<br>
 **Correo:** <mailto>jutorresz@unal.edu.co</mailto><br>
 
